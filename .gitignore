@@ -1,0 +1,17 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore frontend and backend build output
+dist/
+build/
+
+# Ignore environment config files (if added later)
+.env
+.env.local
+
+# Ignore logs
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db

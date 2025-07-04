@@ -1,0 +1,22 @@
+module.exports = [
+  "Why {name} is {location}'s Sweetest Spot in 2025",
+  "Discover why {name} is the top choice in {location} for 2025!",
+  "{name} is transforming the local scene in {location}.",
+  "What makes {name} a must-visit spot in {location}?",
+  "Experience excellence at {name} – {location}'s pride!",
+  "Customers in {location} can't stop talking about {name}!",
+  "The hidden gem of {location}: {name}",
+  "{name}: Redefining quality in {location}",
+  "From good to great – how {name} is leading in {location}",
+  "5 reasons why {name} is trending in {location}",
+  "{name} is setting new standards in {location}'s market",
+  "Why locals in {location} love {name}",
+  "Is {name} the best-kept secret in {location}?",
+  "{name} in {location} – small business, big impact!",
+  "Locals rank {name} among the best in {location}",
+  "{name}: A favorite pick for families in {location}",
+  "{name} – the talk of {location}'s town",
+  "Explore {name}: {location}'s new go-to spot!",
+  "{name} in {location}: Excellence meets passion",
+  "{name}: Your next favorite stop in {location}"
+];
